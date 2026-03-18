@@ -1,4 +1,4 @@
-alert("oi");
+alert("neymar tem que ir para copa!");
 let pessoas = Number(prompt("insira aquantidade de pessoas em marte:"));
 const consumoDiario = 15; // litros por pessoa.
 
@@ -7,3 +7,6 @@ let consumoTotalbase = pessoas * consumoDiario;
 let diasRestantes = oxigenio / consumoTotalbase;
 
 alert(`Relatório de marte: restam ${diasRestantes.toFixed(0)} dias de oxigênio !`);
+
+alert("oii")
+console.log("oooooooiiiiiiiiiiiiiii");
